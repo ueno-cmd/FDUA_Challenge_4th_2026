@@ -36,3 +36,7 @@
 *   `02_output/`: 生成物
 *   `03_notebook/`: ローカルEDA用Notebook
 *   `04_others/`: その他資料
+
+## 実践記録 (Practical Records)
+*   [Dataikuで実践した記録記事](https://note.com/t_ueno8348/n/nf04a710bb0bf)
+*   [Databricksで実践した記録記事](https://note.com/t_ueno8348/n/n12b5bde2e111)
